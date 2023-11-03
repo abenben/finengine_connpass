@@ -1,4 +1,6 @@
+<!--
 <img src="https://drive.google.com/uc?id=18gMdfoZ3EWjgC8bkTE3f-6g6UFmWhF0m">
+-->
 
 # 要旨
 
@@ -59,7 +61,9 @@
 
 # パネリスト
 
+<!--
 <img src="https://drive.google.com/uc?id=1j5uH38B36Dht2dCIftXBunjXyrnpNLjO" height="170">
+-->
 <br>
 
 ### 増田 雅史（ますだ まさふみ）
@@ -73,7 +77,9 @@
 
 ---
 
+<!--
 <img src="https://drive.google.com/uc?id=1fQ2JZ1t2g8boh-a-KNkknIymlAb90Uvi" height="170">
+-->
 <br>
 
 ### 佐藤 竜介（さとう りゅうすけ）
@@ -156,7 +162,9 @@
 <br>
 
 フリーランス<br>
-フィンテック養成コミュニティ 共同主催者<br>
+[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/) 共同主催者<br>
+[一般社団法人第二地方銀行協会](https://www.dainichiginkyo.or.jp/) SARBLAB DXオンボード コアアドバイザー<br>
+[株式会社コミュカル](https://comucal.co.jp/) 技術顧問
 
 > IT企業でシステムエンジニアとしてキャリアを積んだ後、三菱UFJトラスト投資工学研究所にて最新技術の調査や研究業務の支援やMUFGデジタルアクセラレータのメンターに従事し、現在はIGSにてブロックチェーンを活用した信用社会創造の研究に取り組んでいる。<br>
 > 複数のコミュニティ運営、技術書の執筆、イベントの企画なども行う。<br>
@@ -185,7 +193,7 @@
 [株式会社みずほフィナンシャルグループ](https://www.mizuho-fg.co.jp/index.html) デジタル企画部 執行理事 デジタル企画部 部長<br>
 [一般社団法人 日本ブロックチェーン協会](https://jba-web.jp/) 理事<br>
 [一般社団法人 金融革新同友会 FINOVATORS](http://finovators.org/)<br>
-[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)<br>
+[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/) 共同主催者<br>
 
 >IBMにてメガバンクの基幹系開発、インターネットバンキング黎明期のプロジェクト立上げ、金融機関向けコンサルティン グ業務に従事。その後、Microsoftを経て、三菱UFJフィナンシャル・グループのイノベーション事業に参画しフィンテック プロジェクトを立上げ。おもな活動として「Innovation Hub」「MUFG Digitalアクセラレータ」「オープンAPI」等。また、MUFGコイン、イノベーションハブ等の新規事業等の立上げも手がけた。その後、auフィナンシャルホールディングスにて、執行役員チーフデジタルオフィサーとして金融アプリの開発に取り組んだ。Microsoftの業務執行役員を経て現職。<br>
 >[一般社団法人 金融革新同友会FINOVATORS]((http://finovators.org/))  創立メンバーとしてフィンテック企業の支援なども行っている。<br>
