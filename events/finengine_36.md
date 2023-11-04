@@ -4,7 +4,11 @@
 
 # 要旨
 
-金融業界での「プロダクトマネージャー」の役割とその重要性を理解するためのイベントを開催します。「プロジェクトマネージャ（PjM）」と「プロダクトマネージャー（PdM）」の名前は似ていますが、目的や視点は大きく異なります。このイベントでは、製品の成功を直接支えるプロダクトマネージャーの視点とその必要性を、金融業界の現状と照らし合わせて詳しく説明します。長らくウォーターフォール開発が主流だった金融組織ですが、変化する社会に適応し、新たな価値を創出するためには、プロダクトマネージャーの役割の理解が不可欠です。皆様のご参加を心よりお待ちしております。
+金融業界での生成AIの急速な進展は、多大な潜在能力を秘める一方で、偏見や差別の増大という深刻なリスクを含んでいます。このイベントでは、生成AIが金融サービスにおいてもたらす革新的な可能性と、それに伴う課題に焦点を当てます。特に、生成AIの不正確な情報生成、著作権侵害、埋め込まれたバイアスなどのリスクは、金融機関の信頼性とブランドイメージに悪影響を及ぼす可能性があり、最終的には金融サービス全体の信頼を損なうことにもなりかねません。
+
+生成AIの課題に効果的に対処するための新たなアプローチの必要性に対して、参加者は、責任あるAIの統合と、それを支える倫理的規範と法的枠組みについて議論します。この対話を通じて、金融機関はAIを安全かつ効果的に活用するためのベストプラクティスを学び、金融システムの持続性と安定性を確保する方法を共有します。
+
+皆様のご参加を心よりお待ちしております。
 
 # 日時・場所
 
@@ -14,26 +18,21 @@
 
 # 参加対象
 
-* 金融関係の開発リーダー及びエンジニア、デザイナー
-* 金融関係の事業関係者や戦略担当者
-* 金融関係の経営関係者（経営層やマネジメント層）
-* IT企業のPdM、PjM、VPoE、CTO（<font color="red">金融の案件に関わる方に限ります。</font>）
-* IT企業のエンジニア、デザイナー（<font color="red">金融の案件に関わる方に限ります。</font>）
-* フィンテック企業の経営者及び従業員
-* 学術機関や研究機関からの研究者や教授
-* 金融業界のコンサルタントやアナリスト
+* 金融業界に従事する方々
+* IT分野のエンジニア、デザイナー、プロジェクトマネージャー
+* 金融教育関係者
 * 金融業界に関心を持つ学生
 
 # プログラム
 
-| 時間                     | 内容                                                                                                                                                                                                   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 19:00 - 19:05<br>(5分)  | オープニング<br>　MC：<b>渡辺 萌木</b>（QUICK）                                                                                                                                                                    |
-| 19:05 - 19:30<br>(25分) | 講演『（TBD）』<br>　スピーカー:<b>増田 雅史</b>（森・濱田松本法律事務所）                                                                                                                                                        |
-| 19:30 - 19:35<br>(5分)  | 休憩                                                                                                                                                                                                   |
-| 19:35 - 20:25<br>(50分) | パネルディスカッション『金融業界新時代の戦略：プロダクトマネージャーの必要性』<br>　パネラー: <b>増田 雅史</b>（森・濱田松本法律事務所）<br>　パネラー: <b>佐藤 竜介</b>(東京海上ホールディングス)<br>　パネラー: <b>栗原 宏平</b>(Privacy by Design Lab)　モデレーター:  <b>藤井 達人</b>（みずほフィナンシャルグループ） |
-| 20:25 - 20:30<br>(5分)  | クロージング<br>　MC：<b>渡辺 徳生</b>（QUICK）                                                                                                                                                                    |
-| 20:30 - 21:30<br>(60分) | ネットワーキング<br>無料（お酒・軽食をご用意しております）                                                                                                                                                                      |
+| 時間|内容|
+|---|---|
+| 19:00 - 19:05<br>(5分)  | オープニング<br>　MC：<b>渡辺 萌木</b>（QUICK）|
+| 19:05 - 19:30<br>(25分) | 講演『（TBD）』<br>　スピーカー:<b>増田 雅史</b>（森・濱田松本法律事務所）|
+| 19:30 - 19:35<br>(5分)  | 休憩|
+| 19:35 - 20:25<br>(50分) | パネル『責任あるAIの実践：金融業界のための戦略と原則』<br>　パネラー: <b>増田 雅史</b>（森・濱田松本法律事務所）<br>　パネラー: <b>佐藤 竜介</b>（東京海上ホールディングス）<br>　パネラー: <b>栗原 宏平</b>（Privacy by Design Lab）<br>　モデレーター:  <b>藤井 達人</b>（みずほフィナンシャルグループ） |
+| 20:25 - 20:30<br>(5分)  | クロージング<br>　MC：<b>渡辺 徳生</b>（QUICK）|
+| 20:30 - 21:30<br>(60分) | ネットワーキング<br>無料（お酒・軽食をご用意しております）|
 
 # 後援
 
@@ -42,9 +41,7 @@
 </a>
 <br>
 
-<a href="https://www.dainichiginkyo.or.jp/aboutus/sarblab.html"><img src="https://drive.google.com/uc?id=1SDVJuf7fpBCEZMS6q5LVc2Qf6-9jbE5V" height="120"></a><a href="https://www.fdua.org/"><img src="https://drive.google.com/uc?id=1c2rRbAViLfW__rEqR9Ny6t7HchNa2AmS" height="120"></a>
-
-<a href="https://fintechjapan.org/"><img src="https://drive.google.com/uc?id=1ioUfWmg4CVmlweVBoRg6WSdad5HtjPWY" height="80"></a>
+<a href="https://www.fdua.org/"><img src="https://drive.google.com/uc?id=1c2rRbAViLfW__rEqR9Ny6t7HchNa2AmS" height="120"></a>
 
 # メディア
 
@@ -60,9 +57,7 @@
 
 # パネリスト
 
-<!--
-<img src="https://drive.google.com/uc?id=1j5uH38B36Dht2dCIftXBunjXyrnpNLjO" height="170">
--->
+<img src="https://drive.google.com/uc?id=13dmQxkKYRPOlN3PAzqE8Cwbfj9hNGi5U" height="170">
 <br>
 
 ### 増田 雅史（ますだ まさふみ）
@@ -71,15 +66,15 @@
 <b>[一橋大学](https://www.law.hit-u.ac.jp/bl/professor/list/masuda/)</b> 特任教授<br>
 
 > 弁護士・ニューヨーク州弁護士。2004年東京大学工学部卒業、2007年中央大学法科大学院修了、2008年弁護士登録。2016年スタンフォード大学ロースクールLL.M. in Law, Science & Technology修了後、2017年までKirkland & Ellis（シカゴオフィス）客員弁護士、2018年まで森・濱田松本法律事務所シンガポールオフィス駐在。理系出身の弁護士として、IT・デジタル分野を一貫して手掛ける。中央省庁での勤務（金融庁ブロックチェーン法制立案担当、経済産業省メディア・コンテンツ課制度担当）や各種会議体構成員、各種団体の役員・アドバイザー、東京大学・筑波大学における非常勤講師など、これまで多くの対外的活動に参画。近著『生成AI法律入門』（朝日新聞出版・2023年）はじめ、著作・講演多数。<br>
+> <br>
+> <a href="https://amzn.to/40EqfAd"><img src="https://drive.google.com/uc?id=1S7wl8Lbhux51yFpo1c7aX1hjL0gvhdQD" height="170" ></a>　<a href="https://amzn.to/40syrmL"><img src="https://drive.google.com/uc?id=1-iNFf43f501oD6l-Efl8-bmM0ZJFqQhG" height="170" ></a>　<a href="https://amzn.to/3QJgWKL"><img src="https://drive.google.com/uc?id=1cF-G_ONsggwSI31vEspYodUYdhVOlKIf" height="170" ></a><br>
 
 <br>
 <br>
 
 ---
 
-<!--
-<img src="https://drive.google.com/uc?id=1fQ2JZ1t2g8boh-a-KNkknIymlAb90Uvi" height="170">
--->
+<img src="https://drive.google.com/uc?id=1Mpxq1P5EgBPu9H2te5mMqpBiqNuwGESu" height="170">
 <br>
 
 ### 佐藤 竜介（さとう りゅうすけ）
@@ -137,7 +132,7 @@
 <img src="https://drive.google.com/uc?id=1_APvCZiS9XLYAgkhRbeHacsUK68isUzj" height="170">
 <br>
 
-[株式会社QUICK](https://corporate.quick.co.jp/) イノベーション推進本部 本部長 兼 グループ統括CIO補佐
+<b>[株式会社QUICK](https://corporate.quick.co.jp/)</b> イノベーション推進本部 本部長 兼 グループ統括CIO補佐
 
 > 1994年、ネットワーク技術者として同社へ入社。以降、先端ＩＴ技術の調査・検証や経営企画などに従事し、2008年には金融オンラインサービスでは国内初となる大規模な仮想化基盤を実現する。現職ではR&D活動を通じて、新規事業開発と様々なオープンイノベーション活動に従事する他、社外の様々なイノベーションコミュニティにも参画。最近の関心事は少子高齢化と先端ＩＴ。趣味はゴルフ、肉、日本酒。
 
@@ -149,7 +144,7 @@
 <img src="https://drive.google.com/uc?id=1XsO4ZL7NdOG-wxdvVsov6uPd-tJCrmy7" height="190">
 <br>
 
-[株式会社QUICK](https://corporate.quick.co.jp/)
+<b>[株式会社QUICK](https://corporate.quick.co.jp/)</b>
 
 > 2020年株式会社QUICK入社。
 > クラウド上の管理監視、コスト管理の業務を担当。
@@ -165,9 +160,9 @@
 <br>
 
 フリーランス<br>
-[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/) 共同主催者<br>
-[一般社団法人第二地方銀行協会](https://www.dainichiginkyo.or.jp/) SARBLAB DXオンボード コアアドバイザー<br>
-[株式会社コミュカル](https://comucal.co.jp/) 技術顧問
+<b>[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)</b> 共同主催者<br>
+<b>[一般社団法人第二地方銀行協会](https://www.dainichiginkyo.or.jp/) SARBLAB</b> DXオンボード コアアドバイザー<br>
+<b>[株式会社コミュカル](https://comucal.co.jp/)</b> 技術顧問
 
 > IT企業でシステムエンジニアとしてキャリアを積んだ後、三菱UFJトラスト投資工学研究所にて最新技術の調査や研究業務の支援やMUFGデジタルアクセラレータのメンターに従事し、現在はIGSにてブロックチェーンを活用した信用社会創造の研究に取り組んでいる。<br>
 > 複数のコミュニティ運営、技術書の執筆、イベントの企画なども行う。<br>
@@ -190,18 +185,7 @@
 
 ### 藤井 達人（ふじい たつと）
 
-<img src="https://drive.google.com/uc?id=1vClWdh-rkDJKk8RZt_UzXqcYzP9pGoqo" height="170">
-<br>
-
-[株式会社みずほフィナンシャルグループ](https://www.mizuho-fg.co.jp/index.html) デジタル企画部 執行理事 デジタル企画部 部長<br>
-[一般社団法人 日本ブロックチェーン協会](https://jba-web.jp/) 理事<br>
-[一般社団法人 金融革新同友会 FINOVATORS](http://finovators.org/)<br>
-[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/) 共同主催者<br>
-
-> IBMにてメガバンクの基幹系開発、インターネットバンキング黎明期のプロジェクト立上げ、金融機関向けコンサルティング業務に従事。その後、Microsoftを経て、三菱UFJフィナンシャル・グループのイノベーション事業に参画しフィンテック プロジェクトを立上げ。おもな活動として「Innovation Hub」「MUFG Digitalアクセラレータ」「オープンAPI」等。また、MUFGコイン、イノベーションハブ等の新規事業等の立上げも手がけた。その後、auフィナンシャルホールディングスにて、執行役員チーフデジタルオフィサーとして金融アプリの開発に取り組んだ。Microsoftの業務執行役員を経て現職。<br>
-> [一般社団法人 金融革新同友会FINOVATORS]((http://finovators.org/))
-> 創立メンバーとしてフィンテック企業の支援なども行っている。<br>
-> 同志社大卒、東大EMP第17期修了。<br>
+（プロフィールは、上記パネリスト内に掲載）
 
 <br>
 <br>
@@ -211,7 +195,7 @@
 <img src="https://drive.google.com/uc?id=1jDSYO7kQ4H-85BorgY5obB0ajB4d7lPI" height="170">
 <br>
 
-[株式会社 技術評論社](https://gihyo.jp/book)
+<b>[株式会社 技術評論社](https://gihyo.jp/book)</b>
 
 > 書籍編集者。2013年より現職。担当作に『データサイエンティスト養成読本』シリーズなど。<br>
 
