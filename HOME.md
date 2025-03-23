@@ -1,8 +1,8 @@
 # connpass_finengine_home
 
 ### 概要 ###
-未来の社会を築くために、テクノロジーは欠かせない要素となっています。この事実は、すべての産業に適用され、もちろん「金融」も例外ではありません。しかし、現在の金融関係者の中には、技術への評価が低いという認識があり、さらに、技術的な能力を持つエンジニアの真の価値を完全に理解しているわけではないのが実情です。<br>
-私たちは、この問題を解決するために、金融に興味を持つエンジニアと金融関係者の双方に向けて、テクノロジーと金融のスキルを向上させる活動を推進していきます。<br>
+未来の社会を切り拓くためには、テクノロジーは必要不可欠です。これは、どの産業に当てはまることで、当然、「金融」にも該当します。にもかかわらず、金融関係者の中では技術に対する評価はいまだ低く、さらに技術力の高いエンジニアの本質的価値が評価されていないのが現状です。<br>
+私たちは、こう課題を解決するために、金融に興味のあるエンジニアと金融関係者の双方へ、テクノロジー＆金融スキルを向上する活動を行います。<br>
 
 ### 理念 ###
 
@@ -10,40 +10,141 @@
 
 ### コミュニティのミッション ###
 
-本コミュニティが目指す各ステークホルダーへの活動内容は、以下のとおりです。
+本コミュニティが、各ステークホルダーへ向けて活動していきたいことは以下の通りです。
 
-* 「エンジニア」向け：金融とテクノロジーのスキルをさらに磨き上げる。
-* 「経営者・マネージャー」向け：金融テクノロジーに関する知識の正確な理解と評価、そして技術者とのコミュニケーションの障壁を低減する。
-* 「組織」向け：社会的なニーズに応えるプロダクトを創出する能力を高めるとともに、組織の枠組みを越えた連携の機会を促進する。
+* 「エンジニア」へは、金融とテクノロジー関連のスキルをさらに向上させること。 <br>
+* 「マネージャー、経営者」へは、金融に関するテクノロジーを正しく理解・評価できるようになること。および、技術者との溝をさらに埋めるようになること。<br>
+* 組織全体へは、社会に必要なプロダクトを生み出せるようになること。
 
 ### コミュニティの活動 ###
 
-* 勉強会、交流会の開催
-* 書籍、雑誌、オンラインメディアへの執筆
-* メディアへの情報開示
+ * 勉強会の開催
+ * 書籍、雑誌、オンラインメディアへの執筆
+ * メディアへの情報開示
+
+
+# メンバー（4名）
+
+### 阿部 一也（あべかずや）/ あべんべん
+
+<img src="https://drive.google.com/thumbnail?id=1DVR598xxzeaUbt0cSD5VL5WwE2KPsCgZ" height="170">
+
+<b>[PayPay証券株式会社](https://www.paypay-sec.co.jp/)</b> プロダクトマネージャー<br>
+<b>[一般社団法人Privacy by Design Lab](https://privacybydesign.jp/)</b> 事務局<br>
+<b>[一般社団法人第二地方銀行協会](https://www.dainichiginkyo.or.jp/) SARBLAB</b> DXオンボード コアアドバイザー<br>
+<b>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/)</b> メディアプロモーション事業部 編集記者・カメラマン（副業）<br>
+<b>[株式会社コミュカル](https://comucal.co.jp/)</b> 技術顧問<br>
+<b>[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)</b> 共同発起人<br>
+
+> 【経歴】
+> 2023年4月〜 PayPay証券<br>
+> 2023年11月〜2024年3月 人生初のフリーランスを経験<br>
+> 2020年2月〜2023年10月 [Institution for a Global Society株式会社（IGS）](https://i-globalsociety.com/) 上席研究員<br>
+> 2013年1月〜2020年1月 [三菱UFJトラスト投資工学研究所（MTEC）](https://www.mtec-institute.co.jp/) ファイナンシャルエンジニア、金融ITテクノロジスト<br>
+> 〜2012年 [NSD（旧:日本システムディベロップメント）](https://www.nsd.co.jp/),[NTTデータ先端技術](https://www.intellilink.co.jp/home.aspx),[ANTAS](https://antas.co.jp/),etc
+>
+> 現在は金融機関のプロダクトマネージャー。これまで、IT企業や金融機関の研究所、教育/HR企業でシステムエンジニアとしてのキャリアを積み、Web3・ブロックチェーンの研究開発やプロダクトマネージャーとしての経験を持つ。MUFGデジタルアクセラレータでメンターを務めるなど、スタートアップへの支援にも従事している。<br>
+> [自律分散社会フォーラム](https://dasf.global/)会員、[一般社団法人ビジネスモデルイノベーション協会 ](https://www.bmia.or.jp/)認定ジュニアコンサルタント、PyCon JP講演（2016,2018,2019,2020）。<br>
+> ITコミュニティの企画・運営スタッフや、技術書の執筆、イベント企画なども行う。<br>
+> 
+> 【ITコミュニティ運営】<br>
+> - [フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)<br>
+> - [Start Python Club](https://startpython.connpass.com/)<br>
+> - [Fin-JAWS](https://fin-jaws.doorkeeper.jp/)<br>
+> - [fin-py](https://fin-py.connpass.com/)<br>
+> - [VUCA Labo](https://vucalabo.peatix.com)<br>
+> - [つくばビットコインミートアップ](https://www.meetup.com/ja-JP/%E3%81%A4%E3%81%8F%E3%81%B0%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/)<br>
+> - [X-Tech JAWS](https://xtechjaws.doorkeeper.jp/)<br>
+> - [found IT](http://foundit.tokyo/) *サポーター<br>
+> 
+> 【SNS・ブログ】<br>
+>  　 [X(旧Twitter)](https://twitter.com/abenben) ,  [Facebook](https://www.facebook.com/abenbenbenben) , [LinkedIn](https://www.linkedin.com/in/abenben/) , [GitHub](https://github.com/abenben) , [Note](https://note.com/abenben/) , 
+[Quita](https://qiita.com/abenben) , [Zenn](https://zenn.dev/abenben)  , [HatenaBlog](https://abenbenben.hatenablog.com/) , [Amazonレビュー](https://www.amazon.co.jp/gp/profile/amzn1.account.AGMCJO4VG72KBLMZZRAII3NHTQCQ/) <br>
+ 
+### 藤井 達人（ふじい たつと）
+
+<img src="https://drive.google.com/thumbnail?id=1vClWdh-rkDJKk8RZt_UzXqcYzP9pGoqo" height="170">
+
+
+<b>[株式会社みずほフィナンシャルグループ](https://www.mizuho-fg.co.jp/index.html)</b> デジタル企画部 執行役員 デジタル企画部
+部長<br>
+<b>[一般社団法人 日本ブロックチェーン協会](https://jba-web.jp/)</b> 理事<br>
+<b>[一般社団法人 金融革新同友会 FINOVATORS](http://finovators.org/)</b><br>
+<b>[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)</b> 共同発起人<br>
+
+> IBMにてメガバンクの基幹系開発、インターネットバンキング黎明期のプロジェクト立上げ、金融機関向けコンサルティング業務に従事。その後、Microsoftを経て、三菱UFJフィナンシャル・グループのイノベーション事業に参画しフィンテックプロジェクトを立上げ。おもな活動として「Innovation Hub」「MUFG Digitalアクセラレータ」「オープンAPI」等。また、MUFGコイン、イノベーションハブ等の新規事業等の立上げも手がけた。その後、auフィナンシャルホールディングスにて、執行役員チーフデジタルオフィサーとして金融アプリの開発に取り組んだ。Microsoftの業務執行役員を経て現職。<br>
+> [一般社団法人 金融革新同友会FINOVATORS]((http://finovators.org/)) 創立メンバーとしてフィンテック企業の支援なども行っている。<br>
+> 同志社大卒、東大EMP第17期修了。<br>
+
+### 中井 沙織（なかい さおり）
+
+<img src="https://i.gyazo.com/6f02c269c4495dab827817e39a7ff53b.png" height="170">
+<br>
+
+<b>[株式会社三井住友銀行](https://www.smbc.co.jp/)</b> / <b>[株式会社三井住友フィナンシャルグループ](https://www.smfg.co.jp/)</b> デジタル戦略部<br>
+<b>[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)</b><br>
+
+> フィンテック養成コミュニティ・FinGATE Campusのイベント企画・運営を務める。<br>
+> 三井住友フィナンシャルグループ デジタル戦略部 イノベーションチーム 部長代理/デジタルビジネスエキスパート。<br>
+> Web3サービス（Digital Asset、オルタナティブ投資）および渋谷のオープンイノベーション拠点の運営、新規事業開発を担当。スタートアップ・エンタープライズとのアライアンス、金融・非金融の協業サービス開発に取り組む。<br>
+> 金融機関での機関投資家向けサービス、通信キャリアFinTech部門でのスマートフォン金融サービス開発・ビックデータ利活用・他社とのアライアンス事業、MBA（組織論専攻）の後、現職。<br>
+> 社外では非金融サービスの週末起業家。歴史、SF、ドラえもん、料理が趣味。船舶免許を取得し、船の操舵を練習中。<br>
+
+<br>
+<br>
+
+### 片山 智絵（かたやま ちえ）
+	
+<img src="https://i.gyazo.com/ea3b73f8425564b82df2024fb70abcc4.png" height="170">
+<br>
+金融機関にてマーケティング担当<br>
+<b>[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)</b><br>
+
+> 大学卒業後、国内大手証券会社にて営業を経験後、岡三オンライン証券（現 岡三オンラインにてFXやCFD、先物オプション等のデリバティブ商品や国内株式のマーケティング業務に従事。その後、楽天証券にて引き続き株式やデリバティブ商品のマーケティングや事業企画を経験。現在もネット証券にてマーケティングや事業企画を担当。<br>
+
+<br>
+<br>
+
 
 ### 出版物 ###
 
-* 「[フィンテックエンジニア要請読本](https://gihyo.jp/book/2019/978-4-297-10866-3)」技術評論社 2019.10.5出版 (kindle版は[こちら](https://www.amazon.co.jp/dp/B07YKHVX9G))
+* 「[フィンテックエンジニア養成読本](https://gihyo.jp/book/2019/978-4-297-10866-3)」技術評論社 2019.10.5出版 (kindle版は[こちら](https://www.amazon.co.jp/dp/B07YKHVX9G))
 * 「[実践 金融データサイエンス 隠れた構造をあぶり出す6つのアプローチ](https://www.amazon.co.jp/dp/4532134811/)」
-
 
 ### 過去開催イベント・勉強会 ###
 
 |回|日付・場所|テーマ|
 |---|---|---|
-|33|2023.9.26（仮）<br>株式会社QUICK|[フィンテック養成勉強会33](https://fintech-engineer.connpass.com/event/289053)<br>生成AIとともに金融の未来を探求する #3<br><br>後援：[株式会社QUICK](https://corporate.quick.co.jp/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br><br>会場提供：[株式会社QUICK](https://corporate.quick.co.jp/)|
-|32|2023.8.2<br>株式会社QUICK|[フィンテック養成勉強会32](https://fintech-engineer.connpass.com/event/)<br>生成AIとともに金融の未来を探求する #2<br><br>後援：[株式会社QUICK](https://corporate.quick.co.jp/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br><br>会場提供：[株式会社QUICK](https://corporate.quick.co.jp/)||
-|31|2023.7.6<br>株式会社QUICK|[フィンテック養成勉強会31](https://fintech-engineer.connpass.com/event/285540)<br>生成AIとともに金融の未来を探求する #1<br><br>後援・会場提供：[株式会社QUICK](https://corporate.quick.co.jp/)||
-|30|2023.3.13<br>FinGate<br>KAYABA<br>　/オンライン|[フィンテック養成勉強会30](https://fintech-engineer.connpass.com/event/276472)<br>金融の未来～AIの革命的な役割～（ハイブリッド開催）<br><br>後援：[株式会社QUICK](https://corporate.quick.co.jp/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br><br>会場提供：[株式会社QUICK](https://corporate.quick.co.jp/)||
-|29|2023.3.7<br>FinGate<br>KAYABA|[フィンテック養成勉強会29](https://fintech-engineer.connpass.com/event/)<br>　【金融機関限定ワークショップ】<br>　金融の常識を覆す: Open AIが描く未来への探求<br><br>後援：[株式会社QUICK](https://corporate.quick.co.jp/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br><br>会場提供：[株式会社QUICK](https://corporate.quick.co.jp/)||
-|28|2023.2.22<br>（オンライン）|[フィンテック養成勉強会28](https://fintech-engineer.connpass.com/event/273747)<br>　金融に活かすデータの開拓と利活用（技術編）<br><br>後援：[株式会社QUICK](https://corporate.quick.co.jp/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)|
-|27|2023.2.09<br>（オンライン）|[フィンテック養成勉強会27](https://fintech-engineer.connpass.com/event/273026)<br>　金融に活かすデータの開拓と利活用（Biz編）<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[一般社団法人オルタナティブデータ推進協議会](https://alternativedata.or.jp/)<br>後援：[ＳＡＲＢＬＡＢ](https://www.dainichiginkyo.or.jp/aboutus/sarblab.html)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br>|
-|26|2022.12.09<br>（オンライン）|[フィンテック養成勉強会26](https://fintech-engineer.connpass.com/event/266497/)<br>　フィンテックトレンド2023<br>〜未来ノ洞察ヲ融合セヨ！〜<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[ＳＡＲＢＬＡＢ](https://www.dainichiginkyo.or.jp/aboutus/sarblab.html)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br>後援：[セブン銀行](https://www.sevenbank.co.jp/)<br><br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『2023年 フィンテック大予想！（妄想アリ）』<br>　・藤井 達人@日本マイクロソフト([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=413s))([資料](https://speakerdeck.com/finengine/2023nian-huintetukuda-yu-xiang-wang-xiang-ari)) <br>『Web3動向』<br>　・久保田 雅也@WiL<br>『2023年以降にFintech領域において注目すべきの法令改正の動向』<br>　・関口 諒 弁護士([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=1315s))([資料](https://speakerdeck.com/finengine/2023nian-yi-jiang-nifintechling-yu-nioitezhu-mu-subekinofa-ling-gai-zheng-nodong-xiang)) <br>『ユースケースから振り返るEmbedded Financeの進化と2023年の展望』<br>　・伊藤 祐一郎@Finatextホールディングス([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=2736s))<br>『メタバースの「かゆいところ」』<br>　・石村 尚也@Mogura([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=4042s))([資料](https://speakerdeck.com/finengine/metabasuno-kayuitokoro)) <br>『リアル領域×Fintech -PropTech、ブルーエコノミー動向-』<br>　・桜井 駿@デジタルベースキャピタル([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=5320s))<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/Ijlaq0leu6w)<br><br>【レポート】<br>・[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)<br>|
-|25|2022.08.30<br>（オンライン）|[フィンテック養成勉強会25](https://fintech-engineer.connpass.com/event/255270/)<br>　〜ブロックチェーンスタートアップと一緒にこれからの社会を考える〜<br><br><b>【講演】</b><br>『フィンテック最新動向（仮）』<br>　・藤井 達人@日本マイクロソフト<br>『（TBD）』<br>　・畠中 博晶@OpenIDファウンデーション・ジャパン<br>『（TBD）』<br>　・岡田 和也@Opening Line<br>『（TBD）』<br>　・今山 朔郎@Daolaunch<br><br><b>【パネルディスカッション】</b><br>『SSI/DIDが金融に与えるインパクト（仮）』<br>　・モデレーター：藤井 達人@日本マイクロソフト<br>　・パネラー：畠中 博晶@あるやうむ<br>　・パネラー：岡田 和也@Opening Line<br>　・パネラー：今山 朔郎@Daolaunch<br>|
-|24|2021.07.29<br>（オンライン）|[フィンテック養成勉強会24](https://fintech-engineer.connpass.com/event/252076)<br>　〜Self Sovereign Identity/Decentralized identifier〜<br>後援：[Fintech協会](https://www.fintechjapan.org/)<br><br><b>【講演】</b><br>『フィンテック最新動向（仮）』<br>　・藤井 達人@日本マイクロソフト<br>『分散型IDと検証可能なアイデンティティの技術概要』<br>　・富士榮 尚寛@OpenIDファウンデーション・ジャパン<br>『Trusted Web動向（仮）』<br>　・太田 祐一@DataSign<br><b>【パネルディスカッション】</b><br>『SSI/DIDが金融に与えるインパクト（仮）』<br>　・モデレーター：藤井 達人@日本マイクロソフト<br>　・パネラー：富士榮 尚寛@OpenIDファウンデーション・ジャパン<br>　・パネラー：太田 祐一@DataSign<br>　・パネラー：河合 健 弁護士<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/CDaJ8RHFLNQ)|
-|23|2022.07.04<br>（オンライン）|[フィンテック養成勉強会23](https://fintech-engineer.connpass.com/event/250480)<br>　〜見逃せない暗号資産、ステーブルコイン〜<br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[Japan Blockchain Week 2022](https://japanblockchainweek.jp/ja/)<br><br><b>【講演】</b><br>『勃興するInstitutional DeFi』([動画](https://www.youtube.com/watch?v=sR6CHAbUq1Y&t=467s))([資料](https://speakerdeck.com/finengine/bo-xing-suru-institutional-defi)) <br>　・藤井 達人@日本マイクロソフト<br>『令和４年資金決済法等改正を踏まえたステーブルコインに関する規制の動向』([動画](https://www.youtube.com/watch?v=sR6CHAbUq1Y&t=1175s))([資料](https://speakerdeck.com/finengine/ling-he-4nian-zi-jin-jue-ji-fa-deng-gai-zheng-wota-maetasuteburukoinniguan-surugui-zhi-falsedong-xiang))<br>　・関口 諒 弁護士@techtec<br><b>【パネルディスカッション】</b><br>『ステーブルコインは日本の社会でこう生かせ』([動画](https://www.youtube.com/watch?v=sR6CHAbUq1Y&t=4005s))<br>　・モデレーター：藤井 達人@日本マイクロソフト<br>　・パネラー：関口 諒 弁護士<br>　・パネラー：辻 和幸@HashBank/HashPort<br>　・パネラー：白石 陽介@ARIGATOBANK<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/sR6CHAbUq1Y)|
-|22|2022.06.28<br>FinGATE KAYABA|[フィンテック養成勉強会22](https://fintech-engineer.connpass.com/event/250479)<br>〜未来の金融を創作するためのシナリオ・プランニングワークショップ〜<br>後援：[セブン銀行](https://www.sevenbank.co.jp/)<br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[ＳＡＲＢＬＡＢ](https://www.dainichiginkyo.or.jp/aboutus/sarblab.html)<br>後援：[熱い金融マン協会](https://atsukin.kinken.biz/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br>後援：[きんゆう女子](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br>【講演】</b><br>『シナリオ・プランニング講義』<br>　・講師： 新井 宏征@スタイリッシュ・アイデア<br><br>【ミニ講演】</b><br>『データ利活用の教科書』<br>　・講師： 渋谷智之@マクロミル<br><br>【ワークショップ】</b><br>『シナリオ・プランニングワークショップ講義』<br>　・講師： 新井 宏征@スタイリッシュ・アイデア<br>　・ファシリテーター： 池田 裕紀<br>　・ファシリテーター： 清野 安希子<br>　・ファシリテーター：小泉 篤史<br>　・メンター：上原 玄之@Symphony<br>　・メンター：遠藤 昌紀@エンドオブオーシャン<br>　・メンター：岡田 拓郎@金融データ活用推進協会<br>　・メンター：木村 幹夫@トーラス<br>　・メンター：久我 一成@コクヨ<br>　・メンター：佐藤 友彰@ヤマハ発動機<br>　・メンター：佐野 宏喜@Lupinus<br>　・メンター：渋谷智之@ マクロミル<br>　・メンター：鈴木 仁志@ハッカズーク<br>　・メンター：高橋 翔@NoCoders Japan協会、プレスマン、iU大学 客員教授<br>　・メンター：田中豪一@GMOあおぞらネット銀行<br>　・メンター：保木 健次@あずさ監査法人<br>　・メンター：堀 鉄彦@コンテンツジャパン、著作権情報センター<br>　・メンター：長沢 匡哲@メディア工房<br><br>【レポート】<br>・[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/joh3uj018-3242)<br>
+|51|2025.03.06<br>（茅場町）|[フィンテックエンジニア養成勉強会51](https://fintech-engineer.connpass.com/event/346025/)<br>　GX推進による経済の活性化～AI時代における金融のチカラ～<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『北海道・札幌市の挑戦：GX産業の集積とアジア・世界の「金融センター」を目指して』<br>　・西山 香織（札幌市 まちづくり政策局 GX推進担当局長）<br>『（仮）GX推進による好循環な地方創生』<br>　・阿部 一也（フィンテック養成コミュニティ）<br><br><b>【パネルディスカッション】</b><br>『AI時代における金融のチカラ：GX推進から考える経済の活性化』<br>　・パネラー：藤井 達人（みずほフィナンシャルグループ）<br>　・パネラー：夫馬 賢治（ニューラル）<br>　・パネラー：河合 祐子（高知銀行）<br>　・パネラー：岡崎 貴彦（Pinecone）<br>　・モデレーター：橋本 卓典（共同通信社）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|50|2025.01.22<br>（茅場町）|[フィンテックエンジニア養成勉強会50](https://fintech-engineer.connpass.com/event/341328/)<br>　金融業界のマーケティング担当者向けAIライティング集中講座<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講義（第1部）】</b><br>『基礎からできるお金の勉強』<br>　・髙橋 毅（株式会社Smart Step 代表取締役）<br><b>【講義（第2部）】</b><br>『AIライティング講座（実践編）』<br>　・安達 裕哉（ティネクト株式会社 代表取締役社長 / ワークワンダース株式会社 CEO）<br>　・ゲスト：徳川 むつみ（株式会社オリナスパートナー 代表取締役）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|49|2024.12.17<br>（日本橋兜町）|[フィンテックエンジニア養成勉強会49](https://fintech-engineer.connpass.com/event/338888/)<br>　金融DXの「いま」と「次」<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[QUICK (KABUTO ONE)](https://corporate.quick.co.jp/)<br><br><b>【基調講演】</b><br>『海外から学ぶ金融DXの真髄：中国の銀行と保険業界の挑戦』<br>　・滝沢 頼子（株式会社hoppin 代表取締役）<br><br><b>【パネルディスカッション】</b><br>『金融DXの多様性：中国と日本の事例を通じて考える』<br>　・パネラー：滝沢 頼子（hoppin）<br>　・パネラー：岸 和良（住友生命保険相互会社 エグゼクティブ・フェロー）<br>　・パネラー：八巻 渉（株式会社カンム）<br>　・パネラー：佐野 宏喜（Lupinus株式会社）<br>　・モデレーター：桜井 駿（デジタルベースキャピタル）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|48|2024.12.16<br>（茅場町）|[フィンテックエンジニア養成勉強会48](https://fintech-engineer.connpass.com/event/337893/)<br>　未来の自分のために今できること：Z世代の金融リテラシー講座<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講義】</b><br>『基礎からできるお金の勉強～人生100年時代を生き抜くための金融リテラシー～』<br>　・髙橋 毅（株式会社Smart Step）<br><b>【ワークショップ】</b><br>『資産形成ハンドブックで始める、お金との関係を深める対話ワーク』<br>　・ファシリテーター：横田 健一（株式会社ウェルスペント 代表取締役）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|47|2024.12.13<br>（茅場町）|[フィンテックエンジニア養成勉強会47](https://fintech-engineer.connpass.com/event/337591/)<br>　フィンテックトレンド2025<br>〜Balancing Innovation and Trust〜<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『フィンテック領域において2025年以降に注目すべき法令改正の動向』<br>　・関口 諒（弁護士）<br>『データビジネスのこれから』<br>　・辻中 仁士（株式会社ナウキャスト 代表取締役CEO）<br>『生成AI予測 for 2025』<br>　・藤井 達人（みずほフィナンシャルグループ）<br>『行政におけるFintechの可能性』<br>　・畠本 智彰（GovTech東京）<br>『金融機関のDXからAX（AI Transformation）へ態度変容2025』<br>　・藤田 通紀（デロイトトーマツコンサルティング）<br>『国内外のフィンテック関連政策の動向（AI、デジタル資産、クロスボーダー送金等）』<br>　・牛田 遼介（金融庁）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|46|2024.11.15<br>（茅場町）|[フィンテックエンジニア養成勉強会46](https://fintech-engineer.connpass.com/event/334387/)<br>　スタートアップの成長を支える知財戦略のきっかけと最適化<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『スタートアップが押さえておくべき知財と契約の基礎』<br>　・柿沼 太一（STORIA法律事務所 弁護士）<br>『特許について少しだけ考えてみよう！』<br>　・泉 卓也（杉村萬国特許事務所 弁理士）<br><br><b>【パネルディスカッション】</b><br>『スタートアップの成長を支える知財戦略のきっかけと最適化』<br>　・パネラー：柿沼 太一（STORIA法律事務所）<br>　・パネラー：泉 卓也（杉村萬国特許事務所）<br>　・パネラー：岡部 典孝（JPYC）<br>　・パネラー：乙部 信吾（株式会社LIGHTz）<br>　・モデレーター：藤井 達人（みずほフィナンシャルグループ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|45|2024.09.25<br>（茅場町）|[フィンテックエンジニア養成勉強会45](https://fintech-engineer.connpass.com/event/330919/)<br>　医・食・農のウェルビーイング<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『2080年への未来地図：健康長寿はどこまで延伸できるのか？』<br>　・川口 伸明（アスタミューゼ株式会社 エグゼクティブ・チーフ・サイエンティスト）<br><br><b>【パネルディスカッション】</b><br>『医・食・農のウェルビーイング』<br>　・パネラー：川口 伸明（アスタミューゼ）<br>　・パネラー：川島 一公（株式会社インテグリカルチャー）<br>　・パネラー：田ヶ原 絵里（CAN EAT株式会社）<br>　・パネラー：掛 泰輔（株式会社サグリ）<br>　・モデレーター：藤井 達人（みずほフィナンシャルグループ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|44|2024.08.19<br>（茅場町）|[フィンテックエンジニア養成勉強会44](https://fintech-engineer.connpass.com/event/327191/)<br>　持続可能な未来を築くインパクト投資<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『インパクト投資の未来予測<br>〜二人の偉大なインパクト投資家のケースから学べる点は何か？〜』<br>　・熊沢 拓（ソーシャルインパクト・リサーチ株式会社）<br>『企業におけるインパクト・マネジメント』<br>　・高木 麻美（株式会社Stem for Leaves 代表取締役）<br><br><b>【パネルディスカッション】</b><br>『持続可能な未来を築くインパクト投資』<br>　・パネラー：五十嵐 剛志（KIBOW社会投資ファンド）<br>　・パネラー：高木 麻美（Stem for Leaves）<br>　・パネラー：熊沢 拓（ソーシャルインパクト・リサーチ）<br>　・パネラー：松下 敏之（カディラキャピタルマネジメント）<br>　・モデレーター：藤井 達人（みずほフィナンシャルグループ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|43|2024.07.10<br>（オンライン）|[フィンテックエンジニア養成勉強会43](https://fintech-engineer.connpass.com/event/323895/)<br>　デジタルアイデンティティの未来<br>〜海外企業の見解〜<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：オンライン<br><br><b>【講演】</b><br>『Decentralized Identity in action』<br>　・Shiv Aggarwal（EarthID Co-Founder）<br>『DID/VCの概要と事例』<br>　・塚本 邦亜基（SOTATEK JAPAN 副社長）<br>『デンマークのデジタルID事情とPartisiaの紹介』<br>　・Mark Medum Bundgaard（Partisia）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|42|2024.06.26<br>（オンライン）|[フィンテックエンジニア養成勉強会42](https://fintech-engineer.connpass.com/event/321007/)<br>　生成AIで未来のビジネスを変革せよ！<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：オンライン（Zoom）<br><br><b>【基調講演】</b><br>『AIエージェントをちゃんと作る』<br>　・吉田 真吾（株式会社ジェネラティブエージェンツ COO）<br>『明日から始めるAIドリブン経営』<br>　・須藤 憲司（Kaizen Platform CEO）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|41|2024.05.29<br>（茅場町）|[フィンテックエンジニア養成勉強会41](https://fintech-engineer.connpass.com/event/317806/)<br>　改正金商法のチャンスとリスク<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『令和6年金融商品取引法等の改正の概要<br>　〜投資運用業者の参入促進・非上場有価証券の流通活性化〜』<br>　・関口 諒（弁護士）<br><br><b>【パネルディスカッション】</b><br>『改正金商法のチャンスとリスク』<br>　・パネラー：髙尾 知達（ファンズ 取締役CLO）<br>　・パネラー：鵜飼 剛充（FUNDINNO 弁護士）<br>　・パネラー：関口 諒（弁護士）<br>　・モデレーター：藤井 達人（みずほフィナンシャルグループ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|40|2024.02.29<br>（茅場町）|[フィンテックエンジニア養成勉強会40](https://fintech-engineer.connpass.com/event/310357/)<br>　金融 × UX<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『FintechとUXリサーチ』<br>　・松薗 美帆（メルペイ UXリサーチャー）<br><br><b>【パネルディスカッション】</b><br>『金融 × UX』<br>　・パネラー：広野 萌（株式会社フォルテ／デジタル庁）<br>　・パネラー：松薗 美帆（メルペイ）<br>　・パネラー：中井 沙織（三井住友銀行）<br>　・パネラー：羽賀 大輝（テコテック）<br>　・モデレーター：藤井 達人（みずほフィナンシャルグループ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|39|2024.02.21<br>（日本橋兜町）|[フィンテックエンジニア養成勉強会39](https://fintech-engineer.connpass.com/event/310137/)<br>　エンベデッドファイナンスの躍進<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[QUICK (KABUTO ONE)](https://corporate.quick.co.jp/)<br><br><b>【基調講演】</b><br>『エンベデッド・ファイナンスのキホンと今後の展望』<br>　・城田 真琴（野村総合研究所 DX基盤事業本部 兼 デジタル社会研究室 プリンシパル・アナリスト）<br><br><b>【パネルディスカッション】</b><br>『エンベデッドファイナンスの躍進』<br>　・パネラー：城田 真琴（野村総合研究所）<br>　・パネラー：森田 航平（インフキュリオン コンサルティング 執行役員副社長）<br>　・パネラー：村田 大輔（クラウドローン株式会社 代表取締役）<br>　・モデレーター：小野沢 宏晋（GMOあおぞらネット銀行 執行役員）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|38|2024.01.09<br>（茅場町）|[フィンテックエンジニア養成勉強会38](https://fintech-engineer.connpass.com/event/305424/)<br>　日本文化アセットのRWA展望<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『RWAトークナイゼーションの類型と事例』<br>　・成本 治男（TMI総合法律事務所 パートナー弁護士）<br><br><b>【パネルディスカッション】</b><br>『日本文化アセットのRWA展望』<br>　・パネラー：成本 治男（TMI総合法律事務所）<br>　・パネラー：クリス ダイ（レシカ／UniCask／ANGO）<br>　・パネラー：宋 元燮（conSept合同会社）<br>　・パネラー：伊部 智信（クエストリー）<br>　・モデレーター：神本 侑季（N.Avenue / CoinDesk Japan）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|37|2023.12.25<br>（茅場町）|[フィンテックエンジニア養成勉強会37](https://fintech-engineer.connpass.com/event/304429/)<br>　フィンテックトレンド2024<br>（ハイブリッド開催）<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『フィンテック領域において2024年以降に注目すべき法令改正の動向』<br>　・関口 諒（弁護士）<br>『フィンテック×AI 最新動向をAIsmileyがご紹介！』<br>　・平野 奈月（株式会社アイスマイリー）<br>『国内外のRWAトークナイゼーションの事例とトレンド』<br>　・成本 治男（弁護士）<br>『波瀾万丈の2023 InsurTech振り返りと2024の注目領域予測』<br>　・Chang Li（Plug and Play Japan）<br>『すべての経済活動を、SXする』<br>　・平瀬 錬司（サステナブル・ラボ）<br>『2024年 AIで変わる金融業界』<br>　・藤井 達人（みずほフィナンシャルグループ）<br>『フィンテック関係者必見の産業DX3選（不動産・建設・一次産業）』<br>　・桜井 駿（デジタルベースキャピタル）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|36|2023.11.28<br>（茅場町）|[フィンテックエンジニア養成勉強会36](https://fintech-engineer.connpass.com/event/298113/)<br>　責任あるAIの実践：金融業界のための戦略と原則<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[QUICK (KABUTO ONE)](https://corporate.quick.co.jp/)<br><br><b>【講演】</b><br>『生成AIの法的論点と政策動向』<br>　・増田 雅史（森・濱田松本法律事務所 パートナー弁護士）<br><br><b>【パネルディスカッション】</b><br>『責任あるAIの実践：金融業界のための戦略と原則』<br>　・パネラー：増田 雅史（森・濱田松本法律事務所）<br>　・パネラー：佐藤 竜介（東京海上ホールディングス）<br>　・パネラー：栗原 宏平（Privacy by Design Lab）<br>　・モデレーター：藤井 達人（みずほフィナンシャルグループ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|35|2023.10.24<br>（茅場町）|[フィンテックエンジニア養成勉強会35](https://fintech-engineer.connpass.com/event/297998/)<br>　金融業界新時代の戦略：プロダクトマネージャーの必要性<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『金融サービスにおけるプロダクトマネジメントの可能性と課題』<br>　・及川 卓也（Tably株式会社 代表取締役／GHOVC ファウンディングパートナー／Adobe Executive Fellow）<br><br><b>【パネルディスカッション】</b><br>『金融業界新時代の戦略：プロダクトマネージャーの必要性』<br>　・パネラー：及川 卓也（Tably）<br>　・パネラー：矢上 聡洋（GMOあおぞらネット銀行 CTO）<br>　・パネラー：小川 晃平（株式会社Finswer／東京きらぼしフィナンシャルグループ）<br>　・パネラー：田中 聡（Trust Base／三井住友信託銀行）<br>　・モデレーター：中野 安美（Agility Design）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|34|2023.09.19<br>（オンライン）|[フィンテックエンジニア養成勉強会34](https://fintech-engineer.connpass.com/event/293494/)<br>　〖緊急開催〗Web3の新しいフロンティア: RWA(リアルワールドアセット)の役割とリスク<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：オンライン<br><br>**（当イベントは荒天により中止／登壇者情報公開なし）**<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|33|2023.09.25<br>（日本橋兜町）|[フィンテックエンジニア養成勉強会33](https://fintech-engineer.connpass.com/event/295272/)<br>　生成AIとともに金融の未来を探求する #3<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[QUICK (KABUTO ONE)](https://corporate.quick.co.jp/)<br><br><b>【パネルディスカッション】</b><br>『生成AIとともに金融の未来を探求する』<br>　・パネラー：シバタ アキラ（起業家／データサイエンティスト）<br>　・パネラー：大城 信晃（NOB DATA株式会社 代表取締役）<br>　・パネラー：藤井 達人（みずほフィナンシャルグループ）<br>　・モデレーター：Chang Li（Plug and Play Japan）<br><br><b>【講演＆チュートリアル】</b><br>『各生成AIのTips共有』<br>　・阿部 一也（IGS）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|32|2023.08.02<br>（日本橋兜町）|[フィンテックエンジニア養成勉強会32](https://fintech-engineer.connpass.com/event/289053/)<br>　生成AIとともに金融の未来を探求する #2<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[QUICK (KABUTO ONE)](https://corporate.quick.co.jp/)<br><br><b>【講演】</b><br>『AIを利用したJava開発の最新情報』<br>　・寺田 佳央（日本マイクロソフト クラウドアドボケイト）<br><br><b>【パネルディスカッション】</b><br>『生成AIとともに金融の未来を探求する』<br>　・パネラー：寺田 佳央（日本マイクロソフト）<br>　・パネラー：林 憲一（SambaNova Systems）<br>　・パネラー：氏弘 一也（シンプレクス）<br>　・パネラー：阪本 雅義（日本生命保険相互会社）<br>　・モデレーター：阿部 一也（フィンテック養成コミュニティ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|31|2023.07.06<br>（日本橋兜町）|[フィンテックエンジニア養成勉強会31](https://fintech-engineer.connpass.com/event/285540/)<br>　生成AIと未来の金融サービス<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[QUICK (KABUTO ONE)](https://corporate.quick.co.jp/)<br><br><b>【パネルディスカッション】</b><br>『生成AIとともに金融の未来を探求する』<br>　・パネラー：シバタ アキラ（起業家・データサイエンティスト）<br>　・パネラー：大城 信晃（NOB DATA株式会社）<br>　・パネラー：藤井 達人（みずほフィナンシャルグループ）<br>　・モデレーター：Chang Li（Plug and Play Japan）<br><br><b>【講演＆チュートリアル】</b><br>『各生成AIのTips共有』<br>　・阿部 一也（IGS）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|30|2023.03.13<br>（茅場町）|[フィンテックエンジニア養成勉強会30](https://fintech-engineer.connpass.com/event/276472/)<br>　金融の未来<br>～AIの革命的な役割～<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【パネルディスカッション】</b><br>『金融の未来～AIの革命的な役割～』<br>　・パネラー：斎藤 創（創・佐藤法律事務所 弁護士）<br>　・パネラー：金光 大樹（日本マイクロソフト クラウド事業開発本部）<br>　・パネラー：佐野 宏喜（Lupinus株式会社）<br>　・モデレーター：藤井 達人（日本マイクロソフト）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|29|2023.03.07<br>（茅場町）|[フィンテックエンジニア養成勉強会29](https://fintech-engineer.connpass.com/event/276471/)<br>　〖金融機関限定ワークショップ〗金融の常識を覆す: Open AIが描く未来への探求<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【インプットセッション】</b><br>　・藤井 達人（日本マイクロソフト 業務執行役員 金融イノベーション本部長）<br><br><b>【ワークショップ】</b><br>『金融機関限定！シナリオ・プランニングワークショップ』<br>　・ファシリテーター：高柳 謙（クラスメソッド）<br>　・ファシリテーター：阿部 一也（IGS）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|28|2023.02.22<br>（オンライン）|[フィンテックエンジニア養成勉強会28](https://fintech-engineer.connpass.com/event/273747/)<br>　金融に活かすデータの開拓と利活用（技術編）<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：アマゾン ウェブ サービス ジャパン合同会社<br><br><b>【講演1】</b><br>『不動産ビッグデータを使って人と資産の動きを多角的に理解しよう』<br>　・木村 幹夫（株式会社トーラス 代表取締役）<br><b>【講演2】</b><br>『法人データベースを活用したデータ活用のポイント』<br>　・鈴木 彩乃（ユーソナー株式会社）<br><b>【講演3】</b><br>『基盤モデル時代のAIイノベーション』<br>　・林 憲一（SambaNova Systems）<br><b>【講演4】</b><br>『データ分析のためのデータレイク構築』<br>　・平山 元清（Japan Digital Design〈JDD〉）<br><b>【講演5】</b><br>『データ活用とプライバシーの両立』<br>　・中村 龍矢（LayerX）<br><br><b>【パネルディスカッション】</b><br>『金融に活かすデータの開拓と利活用』<br>　・パネラー：木村 幹夫、鈴木 彩乃、林 憲一、平山 元清、中村 龍矢<br>　・モデレーター：白石 寛樹（三井住友カード株式会社）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|27|2023.02.09<br>（オンライン）|[フィンテックエンジニア養成勉強会27](https://fintech-engineer.connpass.com/event/273026/)<br>　金融に活かすデータの開拓と利活用（Biz編）<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>会場提供：アマゾン ウェブ サービス ジャパン合同会社<br><br><b>【講演1】</b><br>『オルタナティブデータの世界の最新動向と日本の現在地点』<br>　・辻中 仁士（株式会社ナウキャスト 代表取締役CEO）<br><b>【講演2】</b><br>『ESG・非財務情報データの活用法。これまでとこれから』<br>　・貴志 優紀（株式会社サステナブル・ラボ）<br><b>【講演3】</b><br>『世界の動向から見るこれからのデータ活用におけるリスク』<br>　・栗原 宏平（Privacy by Design Lab）<br><br><b>【パネルディスカッション】</b><br>『金融に活かすデータの開拓と利活用』<br>　・パネラー：辻中 仁士（ナウキャスト）<br>　・パネラー：岡田 拓郎（金融データ活用推進協会）<br>　・パネラー：浅川 太貴（Protosure Inc.）<br>　・パネラー：栗原 宏平（Privacy by Design Lab）<br>　・モデレーター：貴志 優紀（サステナブル・ラボ）<br><br>【レポート】<br>[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)|
+|26|2022.12.09<br>（オンライン）|[フィンテックエンジニア養成勉強会26](https://fintech-engineer.connpass.com/event/266497/)<br>　フィンテックトレンド2023<br>〜未来ノ洞察ヲ融合セヨ！〜<br><br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[ＳＡＲＢＬＡＢ](https://www.dainichiginkyo.or.jp/aboutus/sarblab.html)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br>後援：[セブン銀行](https://www.sevenbank.co.jp/)<br><br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br><b>【講演】</b><br>『2023年 フィンテック大予想！（妄想アリ）』<br>　・藤井 達人@日本マイクロソフト([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=413s))([資料](https://speakerdeck.com/finengine/2023nian-huintetukuda-yu-xiang-wang-xiang-ari)) <br>『Web3動向』<br>　・久保田 雅也@WiL<br>『2023年以降にFintech領域において注目すべきの法令改正の動向』<br>　・関口 諒 弁護士([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=1315s))([資料](https://speakerdeck.com/finengine/2023nian-yi-jiang-nifintechling-yu-nioitezhu-mu-subekinofa-ling-gai-zheng-nodong-xiang)) <br>『ユースケースから振り返るEmbedded Financeの進化と2023年の展望』<br>　・伊藤 祐一郎@Finatextホールディングス([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=2736s))<br>『メタバースの「かゆいところ」』<br>　・石村 尚也@Mogura([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=4042s))([資料](https://speakerdeck.com/finengine/metabasuno-kayuitokoro)) <br>『リアル領域×Fintech -PropTech、ブルーエコノミー動向-』<br>　・桜井 駿@デジタルベースキャピタル([動画](https://www.youtube.com/watch?v=Ijlaq0leu6w&t=5320s))<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/Ijlaq0leu6w)<br><br>【レポート】<br>・[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0610g3i-3242)<br>|
+|25|2022.08.30<br>（オンライン）|[フィンテックエンジニア養成勉強会25](https://fintech-engineer.connpass.com/event/255270/)<br>　〜ブロックチェーンスタートアップと一緒にこれからの社会を考える〜<br><br><b>【講演】</b><br>『フィンテック最新動向（仮）』<br>　・藤井 達人@日本マイクロソフト<br>『（TBD）』<br>　・畠中 博晶@OpenIDファウンデーション・ジャパン<br>『（TBD）』<br>　・岡田 和也@Opening Line<br>『（TBD）』<br>　・今山 朔郎@Daolaunch<br><br><b>【パネルディスカッション】</b><br>『SSI/DIDが金融に与えるインパクト（仮）』<br>　・モデレーター：藤井 達人@日本マイクロソフト<br>　・パネラー：畠中 博晶@あるやうむ<br>　・パネラー：岡田 和也@Opening Line<br>　・パネラー：今山 朔郎@Daolaunch<br>|
+|24|2021.07.29<br>（オンライン）|[フィンテックエンジニア養成勉強会24](https://fintech-engineer.connpass.com/event/252076)<br>　〜Self Sovereign Identity/Decentralized identifier〜<br>後援：[Fintech協会](https://www.fintechjapan.org/)<br><br><b>【講演】</b><br>『フィンテック最新動向（仮）』<br>　・藤井 達人@日本マイクロソフト<br>『分散型IDと検証可能なアイデンティティの技術概要』<br>　・富士榮 尚寛@OpenIDファウンデーション・ジャパン<br>『Trusted Web動向（仮）』<br>　・太田 祐一@DataSign<br><b>【パネルディスカッション】</b><br>『SSI/DIDが金融に与えるインパクト（仮）』<br>　・モデレーター：藤井 達人@日本マイクロソフト<br>　・パネラー：富士榮 尚寛@OpenIDファウンデーション・ジャパン<br>　・パネラー：太田 祐一@DataSign<br>　・パネラー：河合 健 弁護士<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/CDaJ8RHFLNQ)|
+|23|2022.07.04<br>（オンライン）|[フィンテックエンジニア養成勉強会23](https://fintech-engineer.connpass.com/event/250480)<br>　〜見逃せない暗号資産、ステーブルコイン〜<br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[Japan Blockchain Week 2022](https://japanblockchainweek.jp/ja/)<br><br><b>【講演】</b><br>『勃興するInstitutional DeFi』([動画](https://www.youtube.com/watch?v=sR6CHAbUq1Y&t=467s))([資料](https://speakerdeck.com/finengine/bo-xing-suru-institutional-defi)) <br>　・藤井 達人@日本マイクロソフト<br>『令和４年資金決済法等改正を踏まえたステーブルコインに関する規制の動向』([動画](https://www.youtube.com/watch?v=sR6CHAbUq1Y&t=1175s))([資料](https://speakerdeck.com/finengine/ling-he-4nian-zi-jin-jue-ji-fa-deng-gai-zheng-wota-maetasuteburukoinniguan-surugui-zhi-falsedong-xiang))<br>　・関口 諒 弁護士@techtec<br><b>【パネルディスカッション】</b><br>『ステーブルコインは日本の社会でこう生かせ』([動画](https://www.youtube.com/watch?v=sR6CHAbUq1Y&t=4005s))<br>　・モデレーター：藤井 達人@日本マイクロソフト<br>　・パネラー：関口 諒 弁護士<br>　・パネラー：辻 和幸@HashBank/HashPort<br>　・パネラー：白石 陽介@ARIGATOBANK<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/sR6CHAbUq1Y)|
+|22|2022.06.28<br>FinGATE KAYABA|[フィンテックエンジニア養成勉強会22](https://fintech-engineer.connpass.com/event/250479)<br>〜未来の金融を創作するためのシナリオ・プランニングワークショップ〜<br>後援：[セブン銀行](https://www.sevenbank.co.jp/)<br>後援：[Fintech協会](https://www.fintechjapan.org/)<br>後援：[ＳＡＲＢＬＡＢ](https://www.dainichiginkyo.or.jp/aboutus/sarblab.html)<br>後援：[熱い金融マン協会](https://atsukin.kinken.biz/)<br>後援：[金融データ活用推進協会](https://www.fdua.org/)<br>後援：[きんゆう女子](https://www.fintechjapan.org/)<br>会場提供：[FinGATE KAYABA](https://www.fingate.tokyo/)<br><br>【講演】</b><br>『シナリオ・プランニング講義』<br>　・講師： 新井 宏征@スタイリッシュ・アイデア<br><br>【ミニ講演】</b><br>『データ利活用の教科書』<br>　・講師： 渋谷智之@マクロミル<br><br>【ワークショップ】</b><br>『シナリオ・プランニングワークショップ講義』<br>　・講師： 新井 宏征@スタイリッシュ・アイデア<br>　・ファシリテーター： 池田 裕紀<br>　・ファシリテーター： 清野 安希子<br>　・ファシリテーター：小泉 篤史<br>　・メンター：上原 玄之@Symphony<br>　・メンター：遠藤 昌紀@エンドオブオーシャン<br>　・メンター：岡田 拓郎@金融データ活用推進協会<br>　・メンター：木村 幹夫@トーラス<br>　・メンター：久我 一成@コクヨ<br>　・メンター：佐藤 友彰@ヤマハ発動機<br>　・メンター：佐野 宏喜@Lupinus<br>　・メンター：渋谷智之@ マクロミル<br>　・メンター：鈴木 仁志@ハッカズーク<br>　・メンター：高橋 翔@NoCoders Japan協会、プレスマン、iU大学 客員教授<br>　・メンター：田中豪一@GMOあおぞらネット銀行<br>　・メンター：保木 健次@あずさ監査法人<br>　・メンター：堀 鉄彦@コンテンツジャパン、著作権情報センター<br>　・メンター：長沢 匡哲@メディア工房<br><br>【レポート】<br>・[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/joh3uj018-3242)<br>
 |21|2022.01.17<br>（オンライン）|[フィンテックエンジニア養成勉強会21](https://fintech-engineer.connpass.com/event/233518/)<br>　〜How to DeFi?〜<br>後援：[DeFi協会](https://www.jda-defi.org/)<br><br><b>【講演】</b><br>『Embedded Financeと暗号資産』([動画](https://www.youtube.com/watch?v=dfsSjujMXgs&t=421s))([資料](https://speakerdeck.com/finengine/embedded-financetoan-hao-zi-chan))<br>　・藤井 達人@日本マイクロソフト<br>『DeFiのこれから』([動画](https://www.youtube.com/watch?v=dfsSjujMXgs&t=984s))([資料](https://speakerdeck.com/finengine/defifalsekorekara))<br>　・田上 智裕@techtec<br>『DeFiと日本法』([動画](https://www.youtube.com/watch?v=dfsSjujMXgs&t=2551s))([資料](https://speakerdeck.com/finengine/defitori-ben-fa))<br>　・斎藤 創@創・佐藤法律事務所<br><b>【パネルディスカッション】</b><br>『How to DeFi?』([動画](https://www.youtube.com/watch?v=dfsSjujMXgs&t=4001s))<br>　・パネラー：田上 智裕@techtec<br>　・パネラー：斎藤 創@創・佐藤法律事務所<br>　・パネラー：鳩貝 淳一郎@日本銀行<br>　・パネラー：平野 淳也@HashHub<br>　・モデレーター：藤井 達人@日本マイクロソフト<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/dfsSjujMXgs)|
 |20|2021.12.15<br>（オンライン）|[フィンテックエンジニア養成勉強会20](https://fintech-engineer.connpass.com/event/228873/)<br>　フィンテック トレンド2022<br>〜未来の姿のヒントとなるインプットを一気に学ぶアンラーンNight！〜<br>後援：Fintech協会<br><br><b>【講演】</b><br>『2021フィンテックの総括とこれから』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=399s))([資料](https://speakerdeck.com/finengine/2021huintetukufalsezong-gua-tokorekara))<br>　・藤井 達人@日本マイクロソフト<br>『海外動向から見るFintechのトレンド』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=803s))([資料](https://speakerdeck.com/finengine/hai-wai-dong-xiang-karajian-rufintechfalsetorendo))<br>　・貴志 優紀@Plug and Play Japan<br>『6人のリーダーから聞いたInsurtechのこれから』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=1832s))([資料](https://speakerdeck.com/finengine/6ren-falseridakarawen-itainsurtechfalsekorekara))<br>　・Chang Li@Plug and Play Japan<br>『2021年のカーボンニュートラル動向とこれから』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=2959s))([資料](https://speakerdeck.com/finengine/2021nian-falsekabonniyutorarudong-xiang-tokorekara))<br>　・渡慶次 道隆@ゼロボード<br>『DeFi2.0、そして2022年のDeFi』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=3887s))([資料](https://speakerdeck.com/finengine/defi2-dot-0-sosite2022nian-falsedefi))<br>　・鈴木 雄大@Fracton Ventures<br>『米国と日本のSTOのトレンドと展望2022』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=4771s))([資料](https://speakerdeck.com/finengine/mi-guo-tori-ben-falsestofalsetorendotozhan-wang-2022))<br>　・森田 悟史@Securitize Japan<br>『イノベーション支援に向けた取組み』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=5766s))([資料](https://speakerdeck.com/finengine/ifalsebesiyonzhi-yuan-nixiang-ketaqu-zu-mi))<br>　・牛田 遼介@金融庁<br>『2022年以降にFintech領域において注目すべきの法令改正の動向』([動画](https://www.youtube.com/watch?v=p_UGmvvr1oo&t=6787s))([資料](https://speakerdeck.com/finengine/2022nian-yi-jiang-nifintechling-yu-nioitezhu-mu-subekifalsefa-ling-gai-zheng-falsedong-xiang))<br>　・関口 諒弁護士<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/p_UGmvvr1oo)|
 |19|2021.11.25<br>（オンライン）|[フィンテックエンジニア養成勉強会19](https://fintech-engineer.connpass.com/event/228858/)<br>　フィンテックベンチャーのすゝめ<br>〜こんにちは、ハッピーエンジニアライフ！〜<br>後援：Fintech協会<br><br><b>【講演】</b><br>『フィンテックスタートアップの醍醐味』([動画](https://www.youtube.com/watch?v=bnCJUCrxw5M&t=639s))([資料](https://speakerdeck.com/finengine/huintetukusutatoatupufalseti-hu-wei))<br>　・吉沢 康弘@インクルージョン・ジャパン<br>『ニガテを補うインスタントプリカ KAERU』([動画](https://www.youtube.com/watch?v=bnCJUCrxw5M&t=1247s))([資料](https://speakerdeck.com/finengine/nigatewobu-uinsutantopurika-kaeru))<br>　・岡田 知拓@KAERU<br>『yup株式会社 事業紹介』([動画](https://www.youtube.com/watch?v=bnCJUCrxw5M&t=1827s))([資料](https://docs.google.com/presentation/d/1ITWqN81532Ip-isMaCuowPt2D670TGE1HRz9CrYPRJ4/edit?fbclid=IwAR3qChwPLCPdFmwq6Q6_6O0n3LWnPt8RMwKFrGNrSIfEa1sm0CubvIw6BZc))<br>　・阪井 優@yup<br>『次世代型提携クレジットカード「Nudge」』([動画](https://www.youtube.com/watch?v=bnCJUCrxw5M&t=2362s))([資料](https://speakerdeck.com/finengine/ci-shi-dai-xing-ti-xi-kurezitutokado-nudge))<br>　・沖田 貴史@ナッジ<br>『FinOps/コーポレートバンキング×BaaS』([動画](https://www.youtube.com/watch?v=bnCJUCrxw5M&t=3067s))([資料](https://speakerdeck.com/finengine/koporetobankinguxbaas))<br>　・藤井 達人@日本マイクロソフト<br><b>【パネルディスカッション】</b><br>『フィンテックベンチャーのすゝめ』([動画](https://www.youtube.com/watch?v=bnCJUCrxw5M&t=3684s))<br>　・パネラー：吉沢 康弘@インクルージョン・ジャパン<br>　・パネラー：岡田 知拓@KAERU<br>　・パネラー：阪井 優@yup<br>　・パネラー：沖田 貴史@ナッジ<br>　・モデレーター：藤井 達人@日本マイクロソフト<br><br>【動画アーカイブ】<br>・[YouTube](https://youtu.be/bnCJUCrxw5M)|
@@ -66,21 +167,10 @@
 |2|2019.10.17<br>Fingate<br>　KAYABA|[フィンテックエンジニア養成勉強会 #2](https://fintech-engineer.connpass.com/event/146670/)<br>共催：Fintech協会<br><br>**【パネルディスカッション1】**<br>「キャッシュフリー経済で社会は再編成できるのか？」<br>　・パネラー：藤井 達人@auフィナンシャルホールディングス<br>　・パネラー：曾川 景介@メルペイ<br>　・パネラー：椎野 孝弘@Kyash<br>　・モデレーター：鈴木 万梨子@TOE THE LINE<br>**【パネルディスカッション2】**<br>「フィンテックスタートアップ起業家としての心構え」<br>　・パネラー：荻野 調@財産ネット<br>　・パネラー：小川晃平@VALU<br>　・パネラー：杉山智行@クラウドクレジット<br>　・モデレーター：吉沢 康弘@インクルージョン・ジャパン<br><br>【掲載メディア、ブログ、まとめサイト】<br>・[toggeter](https://togetter.com/li/1418406)|
 |1|2019.10.08<br>hoops link<br>　tokyo|「フィンテックエンジニア養成読本」出版記念<br>[フィンテックエンジニア養成勉強会 #1](https://fintech-engineer.connpass.com/event/146529/)<br><br>**【講演】**<br>『フィンテックエンジニア養成読本』の見所とフィンテックの動向について」<br>　・藤井 達人@auフィナンシャルホールディングス<br>**【パネルディスカッション1】**<br>「AI、チャットボットが変えていく世界観」<br>　・パネラー：上岡 裕@三井住友銀行<br>　・パネラー：砂金 信一@LINE<br>　・パネラー：野口 哲@ロボット投信<br>　・モデレーター：阿部 一也@三菱UFJトラスト投資工学研究所<br>**【パネルディスカッション2】**<br>「お金 vs デザイン」<br>　・パネラー：広野 萌@デザインシップ<br>　・パネラー：土屋 尚史@グッドパッチ<br>　・パネラー：藤井 達人@auフィナンシャルホールディングス<br>　・モデレーター：高屋 卓也@技術評論社<br><br>【掲載メディア、ブログ、まとめサイト】<br>・[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/jo0sg296i-3242)<br>・[Qiita:@earlybird787](https://qiita.com/earlybird787/items/c03b6ea2582b9f5a7338)<br>・[togetter](https://togetter.com/li/1418405)|
 
-### ラジオ/VoiceTech ###
-
-|日付|タイトル|ラジオ|
-|---|---|---|
-|2020.01.24|[FinTechチャレンジ！2014年に初のコンテスト開催。現在のフィンテックを代表する企業とは？](https://radiotalk.jp/talk/221570)|[バンド・オブ・ベンチャーズ](https://band.ventures/)|
-|2020.01.24|[藤井さんも執筆！ビジネスパーソン必見！「フィンテックエンジニア養成読本」](https://radiotalk.jp/talk/221571)|[バンド・オブ・ベンチャーズ](https://band.ventures/)|
-|2020.01.24|[フィンテック大臣の藤井さんが語る！〜ラジオ版、フィンテックで大進化　金融サービスの行方〜](https://radiotalk.jp/talk/221572)|[バンド・オブ・ベンチャーズ](https://band.ventures/)|
-
 ### 寄稿記事、メディア掲載 ###
 
 |日付|タイトル|メディア|
 |---|---|---|
-| 2023.07.30 | [DXの伝道師、みずほ藤井氏「銀行は失敗を許す文化を」](https://www.nikkei.com/article/DGXZQOUB246MM0U3A720C2000000/)|日本経済新聞
-| 2023.06.02 | [熱狂の生成AI、金融業で使える「活用例10選」と念頭に置くべき「2つのシナリオ」](https://www.sbbit.jp/article/fj/114944)|FinTech Journal
-| 2023.03.20 | [生成AIは金融に何をもたらす？ 変革をリードするユースケースを一挙公開](https://www.sbbit.jp/article/fj/108766)|FinTech Journal
 | 2023.01.06 |[2023年「フィンテック大予想」、絶対意識すべき7つのトピックとは？](https://www.sbbit.jp/article/fj/104351)|FinTech Journal
 | 2022.11.09 |[大手銀行がフィンテック企業に追いつくには？「デジタル＆サステナブル」成功事例まとめ](https://www.sbbit.jp/article/fj/98686)|FinTech Journal
 | 2022.08.24 |[40 億本の木を植え、150 万トン以上の CO2 固定化を目指すラボバンクのプロジェクトとは](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2022/08/24/rabobank-project-acorn/)| マイクロソフト| 
@@ -130,44 +220,10 @@
 |2019.12.01|[ブロックチェーンへの深い探究心を持つ男](https://note.com/abenben/n/nf0b78099427b)|note|
 |2019.11.25|[「フィンテックエンジニア養成読本」を出版しました。 ](https://note.com/abenben/n/nacd32a96106f)|note|
 
-# 事務局
+### ラジオ/VoiceTech ###
 
-### 藤井 達人
-
-[株式会社みずほフィナンシャルグループ](https://www.mizuho-fg.co.jp/index.html) 執行理事 デジタル企画部 部長(部付)<br>
-[一般社団法人 金融革新同友会 FINOVATORS](http://finovators.org/)<br>
-[一般社団法人 日本ブロックチェーン協会](https://jba-web.jp/) 理事<br>
-[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)<br>
-
-<img src="https://drive.google.com/uc?id=1vClWdh-rkDJKk8RZt_UzXqcYzP9pGoqo" height="170">
-
-IBMにてメガバンクの基幹系開発、インターネットバンキング黎明期のプロジェクト立上げ、金融機関向けコンサルティン グ業務に従事。その後、Microsoftを経て、三菱UFJフィナンシャル・グループのイノベーション事業に参画しフィンテック プロジェクトを立上げ。おもな活動として「Innovation Hub」「MUFG Digitalアクセラレータ」「オープンAPI」等。また、MUFGコイン、イノベーションハブ等の新規事業等の立上げも手がけた。その後、auフィナンシャルホールディングスにて、執行役員チーフデジタルオフィサーとして金融アプリの開発に取り組んだ。Microsoftの業務執行役員を経て現職。
-[一般社団法人 金融革新同友会FINOVATORS]((http://finovators.org/))  創立メンバーとしてフィンテック企業の支援なども行っている。
-同志社大卒、東大EMP第17期修了。
-
-### 阿部 一也
-[Institution for a Global Society株式会社（IGS）](https://i-globalsociety.com/) 上席研究員<br>
-
-<img src="https://drive.google.com/uc?id=1DVR598xxzeaUbt0cSD5VL5WwE2KPsCgZ" height="170">
-
-IT企業や金融機関の研究所でシステムエンジニアとしてキャリアを積む。現在は教育・HR分野向けのブロックチェーンについての研究開発を行う。MUFGデジタルアクセラレータのメンター。<br>
-[自律分散社会フォーラム](https://dasf.global/)会員、[一般社団法人ビジネスモデルイノベーション協会 ](https://www.bmia.or.jp/)認定ジュニアコンサルタント、PyCon JP講演（2016,2018,2019,2020）。<br>
-ITコミュニティの企画・運営スタッフや、技術書の執筆、イベント企画なども行う。<br>
-<ITコミュニティ><br>
-- [フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)
-- [Fin-JAWS](https://fin-jaws.doorkeeper.jp/)<br>
-- [Start Python Club](https://startpython.connpass.com/)<br>
-- [つくばビットコインミートアップ](https://www.meetup.com/ja-JP/%E3%81%A4%E3%81%8F%E3%81%B0%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/)<br>
-- [VUCA Labo](https://vucalabo.peatix.com)<br>
-- [fin-py](https://fin-py.connpass.com/)<br>
-- [JAPAN ICT DAO](https://japan-ict-dao.connpass.com/)<br>
-- [found IT](http://foundit.tokyo/) *サポーター,*活動停止<br>
-- [X-Tech JAWS](https://xtechjaws.doorkeeper.jp/) *活動停止<br>
-
-### 高屋 卓也
-[株式会社 技術評論社](https://gihyo.jp/book)<br>
-[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)<br>
-
-<img src="https://drive.google.com/uc?id=1jDSYO7kQ4H-85BorgY5obB0ajB4d7lPI" height="170">
-
-書籍編集者。2013年より現職。担当作に『データサイエンティスト養成読本』シリーズなど。<br>
+|日付|タイトル|ラジオ|
+|---|---|---|
+|2020.01.24|[FinTechチャレンジ！2014年に初のコンテスト開催。現在のフィンテックを代表する企業とは？](https://radiotalk.jp/talk/221570)|[バンド・オブ・ベンチャーズ](https://band.ventures/)|
+|2020.01.24|[藤井さんも執筆！ビジネスパーソン必見！「フィンテックエンジニア養成読本」](https://radiotalk.jp/talk/221571)|[バンド・オブ・ベンチャーズ](https://band.ventures/)|
+|2020.01.24|[フィンテック大臣の藤井さんが語る！〜ラジオ版、フィンテックで大進化　金融サービスの行方〜](https://radiotalk.jp/talk/221572)|[バンド・オブ・ベンチャーズ](https://band.ventures/)|
